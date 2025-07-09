@@ -3,10 +3,6 @@
  <br />
 - 🌱 I’m currently learning **Nextjs, React and Tailwind CSS**
 
-<div style="display: none;">
-  - 👨‍💻 All of my projects are available at <a href="https://hildacodes.vercel.app/">https://hildacodes.vercel.app/</a>
-</div>
-
 - 💬 Ask me about **Nextjs, React and Tailwind CSS**
 
 - 📫 How to reach me **hildazaqyaelnaz@gmail.com**
