@@ -3,7 +3,9 @@
  <br />
 - 🌱 I’m currently learning **Nextjs, React and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://hildacodes.vercel.app/](https://hildacodes.vercel.app/)
+<div style="display: none;">
+  - 👨‍💻 All of my projects are available at <a href="https://hildacodes.vercel.app/">https://hildacodes.vercel.app/</a>
+</div>
 
 - 💬 Ask me about **Nextjs, React and Tailwind CSS**
 
